@@ -47,7 +47,7 @@ h5 {
   color: #999c9e;
 }
 .nav > li.active > a {
-  color: #ffffff;
+  color:aqua;
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus {
@@ -168,7 +168,7 @@ h5 {
 }
 .nav > li.active {
   border-left: 4px solid #19aa8d;
-  background: #293846;
+  background-color: blueviolet;
 }
 .nav.nav-second-level > li.active {
   border: none;
