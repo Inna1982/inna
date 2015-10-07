@@ -8071,10 +8071,10 @@ body.md-skin {
     background: #f8f8f8;
   }
   .timeline-item .content {
-    border-left: none;
+    border-left: 0px;
     border-top: 1px solid #e7eaec;
     padding-top: 10px;
-    min-height: 100px;
+    min-height: 110px;
   }
   .nav.navbar-top-links li.dropdown {
     display: none;
